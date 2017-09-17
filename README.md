@@ -1,2 +1,2 @@
 # island-survival
-Island survival is 3D Unity game.
+Island survival is Unity 3D game.
